@@ -1,0 +1,212 @@
+rulesPath: ../patternfly-v5-to-patternfly-v6-component-props.yaml
+providers:
+- name: builtin
+  dataPath: ./data/component-props
+- name: nodejs
+  dataPath: ./data/component-props
+tests:
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00000
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00010
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00020
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00030
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00040
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00050
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00060
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00070
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00080
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00090
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00100
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00110
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00120
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00130
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00140
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00150
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00160
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00170
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00180
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00190
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00200
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00210
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00220
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00230
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00240
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00250
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00260
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00270
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00280
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00290
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00300
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00310
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00320
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00330
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00340
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00350
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00360
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00370
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00380
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00390
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
+- ruleID: patternfly-v5-to-patternfly-v6-component-props-00400
+  testCases:
+  - name: tc-1
+    hasIncidents:
+      atLeast: 1
